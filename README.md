@@ -1,7 +1,5 @@
 # TaskFlow - Modern & Modüler React Todo / Görev Takip Uygulaması
 
-Bu proje, **"Web Geliştirme Yapay Zeka Proje Yönergesi"** standartlarına ve Kıdemli Frontend Geliştirici mimari prensiplerine tam uyumlu olarak geliştirilmiş, modern ve modüler bir React görev yönetim uygulamasıdır.
-
 ---
 
 ## 🚀 Teknolojik Altyapı
@@ -85,14 +83,3 @@ npm run dev
 Tarayıcınızda otomatik olarak `http://localhost:3000` adresinde açılacaktır.
 
 ---
-
-## 🌐 Netlify ve GitHub Yayın Rehberi
-
-### Netlify:
-1. GitHub reponuzu Netlify'a bağlayın.
-2. Build Command: `npm run build`
-3. Publish Directory: `dist`
-4. "Deploy site" butonuna tıklayın.
-
-### GitHub Pages:
-`vite.config.js` dosyasına `base: './'` parametresini ekleyerek GitHub Actions veya gh-pages ile yayınlayabilirsiniz.
